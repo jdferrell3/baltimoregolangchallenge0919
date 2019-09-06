@@ -1,8 +1,10 @@
 # Challenge: Consume Maryland's Road Closures
 
+Challenge conceived of by [jboursiquot](https://gist.github.com/jboursiquot/bdda4c1faad9f4b22a3910cdb885b4de)
+
 The state of MD exposes road closure data for you to do with whatever you'd like. Today, you'd like to fetch it and save it locally in a relational database (maybe sqlite?).
 
-Head over to the [site](https://opendata.maryland.gov/Transportation/Maryland-Road-Closures/nigh-m2sg) to explore the data. 
+Head over to the [site](https://opendata.maryland.gov/Transportation/Maryland-Road-Closures/nigh-m2sg) to explore the data.
 
 Your mission (and success criteria):
 
